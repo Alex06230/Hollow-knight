@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: f768b8581d4016c41b653cc65f1d8f5e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 463
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7981e3ad8f3e1f04fb29d50057513889
+      internalID: -1916717667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 771
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46aad6ab26ec834bae44f3cf938f3f9
+      internalID: -1042620638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 902
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e20675c7b873478769c2058e6dcee
+      internalID: -374048791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 872
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad16618b22b2304ea6169eefc7116c5
+      internalID: -1711137650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789d4076d404d44baac658cd417e579
+      internalID: 88663481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 840
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b4b981e420d848996d5d0966a1065
+      internalID: -569740433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 168
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e55f5f1e41b547a285517eb089fd2
+      internalID: 851939405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 824
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502a06e3d9e2634593116befcb250a5
+      internalID: -383392919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 823
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e55920001b54414faf0d29dc1b9593d
+      internalID: 1592451087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94ca10cc276c04eb554ade4e2f99e1
+      internalID: 1855170244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 767
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56625af222170c34c8e17e45840d387f
+      internalID: -898441881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 768
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22534467711c7149a16c5f333eebf95
+      internalID: -2097442773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 796
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8a0ab7f14d4b4da4b596cd64d79d4
+      internalID: 1367143987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 739
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd3a73b4090c7c4d9fcecec296bc05b
+      internalID: -2000541369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 780
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7357e00b142d0c5408f975feed9de7ef
+      internalID: -991902012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 780
+        width: 78
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8a0c8de95bc3458a83078abad06f3
+      internalID: -1563172738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 565
+        width: 194
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d56dd86d8cd394e9d90aa1fb91fbd7
+      internalID: -1756297663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 176
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264992a99bda2c843b1c1cf5ac3849bc
+      internalID: -1118497394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 760
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464cd80b86b1d14eb459988192697af
+      internalID: -1384472022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 696
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40fb77be1c120c448bb9f4978071274
+      internalID: -43543205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 131
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8528f7655ad7b4b85cc819b1500bba
+      internalID: 974329855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 472
+        width: 185
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfef72354735f1449e8a05eadf57987
+      internalID: -1176243970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 606
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38feede7b08e4cf41aac94b024e60600
+      internalID: -2117106373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 614
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac7e977d2064e54abbfccfb6fdeb134
+      internalID: 1284294327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 616
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ab84a13db0c5d4c8c1f75f6a1fadf9
+      internalID: -257976426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 535
+        width: 78
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907de996c9089cd448f1928e6e882d39
+      internalID: -2001119621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 484
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca54433874418b24aaebffd4f3e298ea
+      internalID: -985597138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 532
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f311cb7232e6e46bf0e5857d023983
+      internalID: -1379199473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 487
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca454c86ebf964dbe34599393484a4
+      internalID: -1583827880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 116
+        width: 219
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 7, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea8ec8b2e5683f4e91c797512d7714f
+      internalID: -353330411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 388
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fbbc17429ac7c488522c1deafb1d00
+      internalID: 425976931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 439
+        width: 106
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82535f1c1b6811343849043f83d82311
+      internalID: -1776790506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 391
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf1317674036f44916ad2adad87768
+      internalID: 851911529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 411
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dbaf82373bf6845a0fa3772e7b124c
+      internalID: 1614729909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 347
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc298735e3b053e48ad9924bfdedf675
+      internalID: 2107768654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 388
+        width: 106
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc193b9032ad244bbd3874183cd6236
+      internalID: 517060540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 380
+        width: 88
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d5773010c8ed74dba2283abb317257
+      internalID: -1395291712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 352
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e43a1d721762a4fba17539458b1948
+      internalID: -32230601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 195
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569becc55f638d044a43f7b2d2bf21a5
+      internalID: -847381683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 348
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287601d6aa09e9549a3cadc8fb280d3a
+      internalID: 816741178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 320
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a85bb395246ca4cb7d753494d76540
+      internalID: 923108789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b37b837dfed4e468fc9b23b1f877c7
+      internalID: 1101071091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 256
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd293e62ebbf1143b2704845128a0f8
+      internalID: -2056513285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 276
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ab9879aa696b4cb2cef5d69196747
+      internalID: -1458703522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 312
+        width: 91
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6147c8558324794eb12de8d04500490
+      internalID: 298043679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586676f55291b924f80fd118702d3335
+      internalID: 119873112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 172
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84cdaf9fd69aa24eb887a4c34d7e556
+      internalID: -1610299671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 228
+        width: 108
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b8d6156528034bb161241ec681b6b
+      internalID: 213467155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 187
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f448c00d0456be45ab49e08d4c8ee25
+      internalID: -316107624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 232
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b899df212320747821e7f61bf8a571
+      internalID: 2029643827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 196
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235de6b3037dec4c898486df2b82bf4
+      internalID: -626695660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 171
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a02c42e8633e46b4e72f8f5674c2f
+      internalID: 1473668492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 134
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0f6b35524f85940b447bec6c7329db
+      internalID: 1349585995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6dc46841b48d4db15dbd15de0c1a9
+      internalID: 2137391672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 76
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35e39acb534164bb6503bee9942e9f
+      internalID: -1622587356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 79
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad400f791f6a9e744a304a859a494004
+      internalID: -21350546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 28
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac91d77e2033ac4ca55241f56a1a0f7
+      internalID: 528029418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887bbd92578ce5409382a1d82bf28a9
+      internalID: -258148902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfc22949ed7e849953a0d2f548d8c7
+      internalID: -1423386142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 31
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf92c9298faf674a9f998bde9b8bd91
+      internalID: -98876686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Infected-1024x1024-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 134
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628a9940a2ac964eb5f297f04fac319
+      internalID: 1373735764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 90afb30bb01bf22438f8617affd3ff49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_0: -1916717667
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_1: -1042620638
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_10: -898441881
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_11: -2097442773
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_12: 1367143987
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_13: -2000541369
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_14: -991902012
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_15: -1563172738
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_16: -1756297663
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_17: -1118497394
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_18: -1384472022
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_19: -43543205
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_2: -374048791
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_20: 974329855
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_21: -1176243970
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_22: -2117106373
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_23: 1284294327
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_24: -257976426
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_25: -2001119621
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_26: -985597138
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_27: -1379199473
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_28: -1583827880
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_29: -353330411
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_3: -1711137650
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_30: 425976931
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_31: -1776790506
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_32: 851911529
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_33: 1614729909
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_34: 2107768654
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_35: 517060540
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_36: -1395291712
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_37: -32230601
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_38: -847381683
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_39: 816741178
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_4: 88663481
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_40: 923108789
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_41: 1101071091
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_42: -2056513285
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_43: -1458703522
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_44: 298043679
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_45: 119873112
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_46: -1610299671
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_47: 213467155
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_48: -316107624
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_49: 2029643827
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_5: -569740433
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_50: -626695660
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_51: 1473668492
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_52: 1349585995
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_53: 2137391672
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_54: -1622587356
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_55: -21350546
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_56: 528029418
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_57: -258148902
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_58: -1423386142
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_59: -98876686
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_6: 851939405
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_60: 1373735764
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_7: -383392919
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_8: 1592451087
+      SpriteAtlasTexture-Infected-1024x1024-fmt12_9: 1855170244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
