@@ -14,13 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Spawn.unity
     guid: 744171b6f1012fd4e86b8c4c827fd05c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level1.unity
     guid: 3e89a7c1f245b2d40a65350af796dfe0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level2.unity
     guid: 2facd36b7c6548b4d8e75d616fabd2f4
   - enabled: 1
+    path: Assets/Scenes/Level3_Capelier_Alexandre.unity
+    guid: 6739c9286e1878a458ec536a9ba47daf
+  - enabled: 0
     path: Assets/Scenes/HUD.unity
     guid: 2a5c0f849d51cde469185c2eb4cbeb19
   m_configObjects: {}
